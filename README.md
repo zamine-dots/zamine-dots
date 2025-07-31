@@ -1,6 +1,6 @@
 ## Hi, I'm Amine
 
-🚀 First-year Computer Science student at FSM, exploring the world of code.<br/>
+🚀 Computer Science student at FSM, exploring the world of code.<br/>
 💡 Passionate about problem-solving, algorithms, and building cool projects.<br/>
 🛠️ Continuously learning and improving with every line of code!<br/>
 
